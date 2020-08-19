@@ -8,7 +8,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Netflix UI Redesign',
+      title: 'Netflix UI Redesign',
       debugShowCheckedModeBanner: false,
       home: HomeScreen(),
     );
